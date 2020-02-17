@@ -1,8 +1,8 @@
 # web_and_social_computing
 Assignment 1 contains various datasets of a graph as shown:
-    1. wiki-Vote
-    2. p2p-Gnutella04
-    3. p2p-Gnutella06
+    1. wiki-Vote  
+    2. p2p-Gnutella04  
+    3. p2p-Gnutella06  
 
 Under each dataset, there are files which describes the properties of a graph as given:
     1. Degree Distribution
