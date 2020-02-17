@@ -1,4 +1,4 @@
-# Web_and_Social_Computing
+# Web_and_Social_Computing(IT752)
 ## Assignment 1  
 It contains various datasets of a graph as shown:  
     1. wiki-Vote  
