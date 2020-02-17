@@ -1,4 +1,4 @@
-# web_and_social_computing
+# Web_and_Social_Computing
 ## Assignment 1  
 It contains various datasets of a graph as shown:  
     1. wiki-Vote  
@@ -43,9 +43,6 @@ Under each dataset, there are files which describes the properties of graph usin
 2. matplotlib.pyplot  
 
 #### Executing files 
-1. Input for 3 models are already considered in code according to  
-2. Execute files in terminal using python command.  
-Example:  
-Name of file is name.py  
-Go to terminal > python name.py  
-Press Enter.
+1. Input for 3 models are already considered in code according to the nodes and edges given in dataset. 
+2. Visit https://colab.research.google.com/ and upload the files.  
+3. Execute the code.  
