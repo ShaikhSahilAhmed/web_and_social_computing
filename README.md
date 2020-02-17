@@ -13,6 +13,7 @@ Under each dataset, there are files which describes the properties of a graph as
     5. Strongly Connected Components  
     6. Sparseness  
     7. k-connectedness  
+    8. SCC properties
    
 #### Requirements
 1. networkx  
