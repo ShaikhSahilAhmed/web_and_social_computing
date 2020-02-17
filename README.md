@@ -13,4 +13,7 @@ Under each dataset, there are files which describes the properties of a graph as
     6. Sparseness  
     7. k-connectedness  
    
-###### Instructions for execution
+###### Requirements
+1. networkx  
+2. matplotlib.pyplot  
+3. pandas  
