@@ -59,5 +59,5 @@ The basic web crawler is uploaded under crawler directory. The main.py file cont
 #### Executing files 
 1. python main.py for basic crawler  
 2. For single and multithreaded crawler upload the Crawler_Thread.ipynb and execute it.
-3. For bfs and dfs enter bfs_dfs.py 'number of seeds' <dfs/bfs>
+3. For bfs and dfs enter {python bfs_dfs.py 'number of seeds' <dfs/bfs>}
 4. Data structure used for indexing is mentioned in the Assignment three report.
