@@ -47,3 +47,15 @@ Under each dataset, there are files which describes the properties of graph usin
 1. Input for 3 models are already considered in code according to the nodes and edges given in dataset. 
 2. Visit https://colab.research.google.com/ and upload the files.  
 3. Execute the code.  
+
+
+## Assignment 3
+The basic web crawler is uploaded under crawler directory. The main.py file contains the crawler program where it is crawling the website URL: 'http://infotech.nitk.ac.in/'.
+
+#### Requirements
+1. icrawler  
+2. spider 
+
+#### Executing files 
+1. python main.py for basic crawler  
+2. For single and multithreaded crawler upload the Crawler_Thread.ipynb and execute it.
