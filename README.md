@@ -61,3 +61,17 @@ The basic web crawler is uploaded under crawler directory. The main.py file cont
 2. For single and multithreaded crawler upload the Crawler_Thread.ipynb and execute it.
 3. For bfs and dfs enter {python bfs_dfs.py 'number of seeds' <dfs/bfs>}
 4. Data structure used for indexing is mentioned in the Assignment three report.
+
+## Assignment 4
+Datasets used are same as Assignment 1.
+### Ques 1
+Measurements are:
+1. Degree centrality
+2. Closeness centrality
+3. Betweenness centrality
+4. Eigenvector centrality
+
+#### Executing files 
+1. python filename.py
+
+For every dataset, it contains 'results' directory which contains all 4 types of centrality for every node.
