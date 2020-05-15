@@ -75,3 +75,17 @@ Measurements are:
 1. python filename.py
 
 For every dataset, it contains 'results' directory which contains all 4 types of centrality for every node.
+
+### Ques 2
+This directory contains two subdirectories as "hits" and "pagerank".
+
+#### PageRank
+It contains 3 sub directories for each dataset. In each of the dataset it contains python file for PageRank Score calculation  for each of the nodes and the nodes which are having min and max score. It also contains the python file to plot the graph for Score vs node-id.
+
+#### HITS
+It contains 3 sub directories for each dataset. In each of the dataset it contains python file for HITS Hub and Authority Score calculation for each of the nodes and the nodes which are having min and max score. It also contains the python file to plot the graph for Score vs node-id.
+
+##### Executing files
+1. python filename.py
+
+For every dataset, it contains 'results' directory which contains their score values with respect to their node-id.
